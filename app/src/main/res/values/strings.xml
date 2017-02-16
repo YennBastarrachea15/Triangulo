@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Triangulo</string>
+    <string name="btnOperacion">Operacion</string>
+    <string name="btnLimpiar">Limpiar</string>
+</resources>
